@@ -1,7 +1,9 @@
 name: kline_aggregator
 description: "Kline Data Aggregator"
-version: 0.0.1
-homepage: 
+version: 0.0.2
+homepage:  https://github.com/owoeo/kline_aggregator/
+repository: https://github.com/owoeo/kline_aggregator/tree/main
+issue_tracker: https://github.com/owoeo/kline_aggregator/issues
 
 environment:
   sdk: ^3.5.2
